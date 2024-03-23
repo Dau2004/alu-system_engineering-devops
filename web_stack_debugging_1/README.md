@@ -30,25 +30,17 @@ Script Usage
 To use the provided Bash script for fixing the Nginx port 80 issue:
 
 Clone this repository:
-
-bash
-Copy code
 git clone https://github.com/alu-system_engineering-devops/web_stack_debugging_1.git
+
 Navigate to the project directory:
-bash
-Copy code
 cd web_stack_debugging_1
+
 Ensure the script is executable:
-bash
-Copy code
 chmod +x 0-nginx_likes_port_80
+
 Execute the script:
-bash
-Copy code
 ./0-nginx_likes_port_80
-Repository Structure
-0-nginx_likes_port_80: Bash script to fix the Nginx port 80 issue
-README.md: This file providing information about the project
-Other necessary files for the project
+
+
 Author
 Chol Daniel
